@@ -37,6 +37,123 @@ const recipes = [
         "Mix eggs and cheese in bowl.",
         "Combine everything off the heat."
       ]
+    },
+    {
+      id: 4,
+      title: "Chinese Noodles",
+      image: "images/noodles.jpg",
+      category: "chinese",
+      ingredients: ["Egg noodles", "Soy sauce", "Vegetables", "Garlic", "Sesame oil"],
+      steps: [
+        "Boil noodles until cooked.",
+        "Stir-fry vegetables and garlic.",
+        "Add noodles and soy sauce.",
+        "Toss with sesame oil."
+      ]
+    },
+    {
+      id: 5,
+      title: "Tom Yam Kung",
+      image: "images/tomyam.jpg",
+      category: "thai",
+      ingredients: ["Shrimp", "Lemongrass", "Galangal", "Chili", "Lime juice"],
+      steps: [
+        "Boil herbs in water.",
+        "Add shrimp and cook.",
+        "Season with chili and lime juice.",
+        "Serve hot."
+      ]
+    },
+    {
+      id: 6,
+      title: "Ramen",
+      image: "images/ramen.jpg",
+      category: "japanese",
+      ingredients: ["Ramen noodles", "Broth", "Egg", "Pork", "Green onions"],
+      steps: [
+        "Prepare broth.",
+        "Boil noodles separately.",
+        "Add noodles to bowl and pour broth.",
+        "Top with pork, egg, and onions."
+      ]
+    },
+    {
+      id: 7,
+      title: "Pizza",
+      image: "images/pizza.jpg",
+      category: "italian",
+      ingredients: ["Pizza dough", "Tomato sauce", "Cheese", "Toppings"],
+      steps: [
+        "Spread sauce on dough.",
+        "Add cheese and toppings.",
+        "Bake until crust is golden.",
+        "Slice and serve."
+      ]
+    },
+    {
+      id: 8,
+      title: "Pad Kra Praow",
+      image: "images/krapraow.jpg",
+      category: "thai",
+      ingredients: ["Beef", "Holy basil", "Chili", "Garlic", "Soy sauce"],
+      steps: [
+        "Stir-fry garlic and chili.",
+        "Add beef and cook thoroughly.",
+        "Season with soy sauce.",
+        "Add holy basil and stir."
+      ]
+    },
+    {
+      id: 9,
+      title: "Tempura",
+      image: "images/tempura.jpg",
+      category: "japanese",
+      ingredients: ["Shrimp", "Vegetables", "Tempura batter", "Oil"],
+      steps: [
+        "Prepare and chill tempura batter.",
+        "Dip ingredients into batter.",
+        "Deep-fry until golden.",
+        "Drain and serve with dipping sauce."
+      ]
+    },
+    {
+      id: 10,
+      title: "Chinese Fried Rice",
+      image: "images/fried_rice.jpg",
+      category: "chinese",
+      ingredients: ["Rice", "Egg", "Carrots", "Peas", "Soy sauce"],
+      steps: [
+        "Scramble eggs and set aside.",
+        "Stir-fry vegetables.",
+        "Add rice and eggs.",
+        "Season with soy sauce."
+      ]
+    },
+    {
+      id: 11,
+      title: "Lasagna",
+      image: "images/lasagna.jpg",
+      category: "italian",
+      ingredients: ["Lasagna noodles", "Ground beef", "Tomato sauce", "Cheese", "Bechamel"],
+      steps: [
+        "Cook beef and mix with tomato sauce.",
+        "Layer noodles, sauce, and cheese.",
+        "Repeat and top with bechamel.",
+        "Bake until bubbly."
+      ]
+    },
+    {
+      id: 12,
+      title: "Mala Hotpot",
+      image: "images/mala_hotpot.jpg",
+      category: "chinese",
+      ingredients: ["Hotpot broth", "Beef slices", "Tofu", "Mushrooms", "Mala spice"],
+      steps: [
+        "Prepare spicy mala broth.",
+        "Boil broth in hotpot.",
+        "Dip ingredients and cook.",
+        "Serve with dipping sauce."
+      ]
     }
   ];
   
